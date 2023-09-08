@@ -1,0 +1,10 @@
+Cliente: sofia
+Dirección cliente: hd
+Id del pedido: 4
+Items:
+m10 criolla ---> 22000
+Eliminaciones:
+	i10 cebolla grille ---> 0
+Precio Neto ---> 22000
+IVA ---> 4180
+Precio Total Pedido ---> 26180

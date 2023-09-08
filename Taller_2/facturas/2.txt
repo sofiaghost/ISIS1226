@@ -1,0 +1,15 @@
+Cliente: sOFIA
+Dirección cliente: TS
+Id del pedido: 2
+Items:
+01 agua cristal sin gas ---> 5000
+	 Calorías ---> 0
+08 casera ---> 23000
+	 Calorías ---> 681
+Eliminaciones:
+	lechuga ---> 0
+		 Calorías eliminadas ---> 15
+Calorías Totales ---> 666
+Precio Neto ---> 28000
+IVA ---> 5320
+Precio Total Pedido ---> 33320

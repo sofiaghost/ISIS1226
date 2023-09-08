@@ -1,0 +1,15 @@
+Cliente: S
+Dirección cliente: S
+Id del pedido: 3
+Items:
+02 agua cristal con gas ---> 5000
+	 Calorías ---> 0
+03 corral pollo ---> 15000
+	 Calorías ---> 113
+Eliminaciones:
+	tocineta express ---> 0
+		 Calorías eliminadas ---> 80
+Calorías Totales ---> 33
+Precio Neto ---> 20000
+IVA ---> 3800
+Precio Total Pedido ---> 23800

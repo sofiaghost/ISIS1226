@@ -1,0 +1,4 @@
+c1;combo corral;10%;corral;papas medianas;gaseosa
+c2;combo corral queso;10%;corral queso;papas medianas;gaseosa
+c3;combo todoterreno;7%;todoterreno;papas grandes;gaseosa
+c4;combo especial;7%;especial;papas medianas;gaseosa

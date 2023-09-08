@@ -1,0 +1,8 @@
+Cliente: sofi
+Dirección cliente: tc
+Id del pedido: 0
+Items:
+casera ---> 23000
+Precio Neto ---> 23000
+IVA ---> 4370
+Precio Total Pedido ---> 27370

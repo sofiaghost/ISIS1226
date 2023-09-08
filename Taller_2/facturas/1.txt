@@ -1,0 +1,11 @@
+Cliente: So
+Dirección cliente: ma
+Id del pedido: 1
+Items:
+m1corral ---> 14000
+Adiciones:
+	i1lechuga ---> 1000
+c1combo corral ---> 22050
+Precio Neto ---> 37050
+IVA ---> 7040
+Precio Total Pedido ---> 44090
